@@ -4,6 +4,12 @@
 
 The land has easy public access — theft of equipment (solar panels, batteries, pump, tools) is a realistic risk. Security is a Phase 0 requirement, not an afterthought.
 
+| Parameter | Value |
+|---|---|
+| Plot size | ~6,000 m² (150 × 40 m) |
+| Perimeter | ~380 m |
+| Shape | Long narrow strip — good for linear camera coverage |
+
 ## Threat model
 
 | Threat | Likelihood | Impact |
@@ -16,13 +22,19 @@ The land has easy public access — theft of equipment (solar panels, batteries,
 
 ### 1. Perimeter (Perímetro)
 
-| Option | Cost | Notes |
-|---|---|---|
-| Malla ganadera + postes | 3–6 €/m | Fast to install, low deterrence |
-| Malla cinegética + alambre de espino | 6–12 €/m | Better deterrence, standard in rural Spain |
-| Valla metálica con puerta con llave | + 500–1,500 € | Gate with padlock as minimum |
+Perimeter: **380 m**
+
+| Option | €/m | Total (380 m) | Notes |
+|---|---|---|---|
+| Malla ganadera + postes | 3–6 € | 1,140–2,280 € | Fast, low deterrence |
+| Malla cinegética + alambre de espino | 6–12 € | 2,280–4,560 € | Better deterrence, standard rural Spain |
+| Valla metálica con puerta con llave | — | + 500–1,500 € | Gate; add to either option above |
+
+**Recommendation:** malla cinegética + 1 puerta con llave → ~**3,000–5,000 € total**
 
 > Priority: close the perimeter before installing any equipment.
+
+**Camera note:** 150 m long axis — 2 cameras at each short end (40 m face) cover the full plot with overlapping FOV. Equipment area gets a dedicated 3rd camera.
 
 ### 2. Physical anchoring (Anclaje físico)
 

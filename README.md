@@ -130,11 +130,11 @@ gantt
 
 | Phase | Investment | Autonomy gained |
 |---|---|---|
-| Phase 0 — Studies & permits | 3,000–6,000 € | — |
-| Phase 1 — Water + Energy | 30,000–50,000 € | ~65% |
+| Phase 0 — Studies, permits & security | 6,000–11,000 € | — |
+| Phase 1 — Water + Energy | 28,000–46,000 € | ~65% |
 | Phase 2 — Food | 6,000–14,000 € | +10–15% |
 | Phase 3 — Automation | 1,500–5,000 € | +5% |
-| **Total** | **40,500–75,000 €** | **~75–80%** |
+| **Total** | **41,500–76,000 €** | **~75–80%** |
 
 ---
 
