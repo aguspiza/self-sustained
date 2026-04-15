@@ -1,0 +1,10 @@
+# Claude Code local memory
+.claude/
+
+# OS artifacts
+Thumbs.db
+.DS_Store
+
+# Archives
+*.tar.gz
+*.zip
