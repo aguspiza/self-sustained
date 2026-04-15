@@ -79,6 +79,7 @@ flowchart LR
 | 🌿 Food | [docs/food/](docs/food/README.md) |
 | 🤖 Automation | [docs/automation/](docs/automation/README.md) |
 | 🔗 Integration | [docs/integration/](docs/integration/README.md) |
+| 🔒 Security | [docs/security/](docs/security/README.md) |
 
 ---
 

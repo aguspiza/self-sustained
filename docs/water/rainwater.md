@@ -9,12 +9,12 @@ Capturable (L/year) = Rainfall (mm/year) × Catchment area (m²) × Runoff coeff
 
 | Variable | Value | Notes |
 |---|---|---|
-| Annual rainfall | 450–550 mm | Mediterranean Spain estimate |
-| Roof area (estimate) | 100 m² | Confirmed once building is designed |
+| Annual rainfall | 500 mm | Mediterranean Spain |
+| Roof area (Phase 1 estimate) | 80 m² | Confirmed once building is designed |
 | Runoff coefficient | 0.80 | Ceramic tile (teja cerámica) |
-| **Capturable/year** | **36,000–44,000 L** | ~100–120 L/day average |
+| **Capturable/year** | **32,000 L** | ~88 L/day average |
 
-> This does **not** replace the well. It reduces pumping load by ~10–15% and provides a buffer during pump maintenance.
+> Personal water use is covered separately. This system targets **garden, animals, and cleaning** (~200–350 L/day peak summer). Rainwater is the **primary source** — well permitting is long (6–18 months) and uncertain.
 
 ## First-flush diverter (desviador de primer flujo)
 
@@ -43,12 +43,13 @@ It fills with dirty water first, then clean water overflows to the cistern. Cost
 
 | Parameter | Value |
 |---|---|
-| Volume | 40,000 L |
+| Volume | 15,000 L (Phase 1) — expandable |
 | Type | Precast reinforced concrete, buried (hormigón prefabricado enterrado) |
+| Autonomy at peak | ~40–50 days (200–350 L/day) |
 | Overflow | Diverted to infiltration zone to recharge aquifer |
 | Inlet filter | Mesh 1 mm to exclude leaves and insects |
 | Access | Manhole cover, lockable |
-| Cost (installed) | 3,000–6,000 € |
+| Cost (installed) | 1,500–3,000 € |
 
 ## Change log
 

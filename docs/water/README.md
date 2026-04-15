@@ -4,8 +4,8 @@
 
 | Source | Role | Status |
 |---|---|---|
-| Groundwater well (pozo) | Primary — year-round supply | Phase 1 |
-| Rainwater cistern (cisterna pluvial) | Secondary — reduces pumping | Phase 1 |
+| Rainwater cistern (cisterna pluvial) | Primary — garden, animals, cleaning | Phase 1 |
+| Groundwater well (pozo) | Secondary — permitting 6–18 months, uncertain | Phase 1+ |
 | Municipal supply (red municipal) | Emergency backup only | Passive |
 
 ```mermaid
