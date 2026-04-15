@@ -1,0 +1,39 @@
+name: "🔍 Finding / Critique"
+description: A result, failure, or design revision
+title: "[FINDING] "
+labels: ["finding"]
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - Design flaw found
+        - Better alternative identified
+        - Experiment result
+        - Cost revision
+        - Regulatory issue
+        - Supplier / material note
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: Affected system
+      placeholder: "water | energy | food | automation"
+    validations:
+      required: true
+  - type: textarea
+    id: finding
+    attributes:
+      label: Finding
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impact on design
+  - type: textarea
+    id: action
+    attributes:
+      label: Proposed action

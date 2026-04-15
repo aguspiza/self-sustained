@@ -1,0 +1,30 @@
+name: "🧪 New Experiment"
+description: Document a new field or bench experiment
+title: "[EXP-XXX] "
+labels: ["experiment"]
+body:
+  - type: input
+    id: system
+    attributes:
+      label: System
+      placeholder: "water | energy | food | automation"
+    validations:
+      required: true
+  - type: input
+    id: hypothesis
+    attributes:
+      label: Hypothesis (one measurable sentence)
+    validations:
+      required: true
+  - type: textarea
+    id: setup
+    attributes:
+      label: Setup summary
+      placeholder: Materials, location, procedure outline
+    validations:
+      required: true
+  - type: input
+    id: success
+    attributes:
+      label: Success criterion
+      placeholder: "e.g. flow > 1,500 L/day at 60 m depth"
